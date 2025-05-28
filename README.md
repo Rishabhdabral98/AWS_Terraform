@@ -1,1 +1,1 @@
-[![Terradome](https://example.com/terradome-icon.png)](https://terradome.dev)
+![Terradome](https://img.shields.io/badge/Terradome-Terraform-blueviolet)
