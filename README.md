@@ -1,1 +1,3 @@
-![Terradome](https://img.shields.io/badge/Terradome-Terraform-blueviolet)
+<p align="center">
+  <img src="https://www.vectorlogo.zone/logos/terraformio/terraformio-icon.svg" alt="Terraform Logo" width="200"/>
+</p>
